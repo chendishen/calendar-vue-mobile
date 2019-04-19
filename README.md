@@ -1,4 +1,4 @@
-# vue2-date-component
+# calendar-vue-mobile
 
 > A Vue.js project
 
