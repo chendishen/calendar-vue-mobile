@@ -1,6 +1,25 @@
 # calendar-vue-mobile
 
-> A Vue.js project
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)   
+
+> A calendar that can be used with cube-ui
+
+#how to use it
+
+> npm install calendar-vue-mobile
+
+> import calendar from 'calendar-vue-mobile'
+
+>import Vue from 'vue'
+Vue.use(calendar.Datepicker) 
+
+>or
+
+>components: {
+    Datepicker:calendar.VueDatepicker
+}
+
+
 
 ## Build Setup
 
@@ -23,5 +42,3 @@ npm run unit
 # run all tests
 npm test
 ```
-
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)   
