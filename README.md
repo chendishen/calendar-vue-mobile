@@ -1,6 +1,7 @@
 # calendar-vue-mobile
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)   
+[![downloads](https://img.shields.io/npm/dm/cube-ui.svg)](https://www.npmjs.com/package/calendar-vue-mobile)
 
 > A calendar that can be used with cube-ui
 
