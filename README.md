@@ -29,6 +29,11 @@ You can find examples in calendar-vue-mobile/src/demo/ , There are specific ways
 ### 例子
 你可以在 calendar-vue-mobile/src/demo/ 路径下找到例子，里边有该日历的具体应用方式
 
+| 星期        | 车次           | 时间  |
+| ------------- |:-------------:| -----:|
+| 星期一      |G1008 | 4:30 |
+|  星期二  | G1006      |  14:55 |
+|  星期三   | G1007    |   18:30 |
 
 ## Build Setup
 
