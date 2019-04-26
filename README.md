@@ -23,9 +23,11 @@ components: {
     Datepicker:calendar.VueDatepicker
 }
 ```
+### example
+You can find examples in calendar-vue-mobile/src/demo/ , There are specific ways to use the calendar.
 
-
-
+### 例子
+你可以在 calendar-vue-mobile/src/demo/ 路径下找到例子，里边有该日历的具体应用方式
 
 
 ## Build Setup
