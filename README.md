@@ -13,15 +13,15 @@ npm install calendar-vue-mobile --save
 
 ### Usage
 ```js
-import calendar from 'calendar-vue-mobile'
-
-import Vue from 'vue'
-Vue.use(calendar.Datepicker) 
+import Calendar from 'calendar-vue-mobile'
+Vue.use(Calendar);
+```
+```html
+<Datepicker ref="Datepicker" :options="options" @change="clock"></Datepicker>
 ```
 
->or
-
 ```js
+import Datepicker from 'calendar-vue-mobile'
 components: {
     Datepicker:calendar.VueDatepicker
 }
