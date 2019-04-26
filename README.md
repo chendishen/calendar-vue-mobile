@@ -6,18 +6,28 @@
 
 #how to use it
 
-> npm install calendar-vue-mobile
+```shell
+npm install calendar-vue-mobile
+```
 
-> import calendar from 'calendar-vue-mobile'
 
->import Vue from 'vue'
+### Usage
+```js
+import calendar from 'calendar-vue-mobile'
+
+import Vue from 'vue'
 Vue.use(calendar.Datepicker) 
+```
 
 >or
 
->components: {
+```js
+components: {
     Datepicker:calendar.VueDatepicker
 }
+```
+
+
 
 
 
