@@ -29,9 +29,13 @@ You can find examples in calendar-vue-mobile/src/demo/ , There are specific ways
 ### 例子
 你可以在 calendar-vue-mobile/src/demo/ 路径下找到例子，里边有该日历的具体应用方式
 
+### API
+
 | 属性        | 类型           | 说明  |
 | ------------- |:-------------:| -------------------------------:|
-| options       | Object        | 具体参数说明：curtime：""时，获取当前时间；format: "yyyy-mm-dd"，时间格式；isHideOtherday：false,是否禁止选择未标记的日期 |
+| options       | Object        | 具体参数说明：curtime：""时，获取当前时间 |
+|               |   string      |参数format: "yyyy-mm-dd"，时间格式；|
+|               |   boolean      |参数isHideOtherday，是否禁止选择未标记的日期;|
 |               |     []     |  参数_markList:[{date:"2012-12-12",className:"label1"}]，自定义class选择器样式，用以标记时间  |
 |               |          |    |
 
