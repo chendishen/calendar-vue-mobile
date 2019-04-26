@@ -4,10 +4,10 @@
 
 > A calendar that can be used with cube-ui
 
-#how to use it
+### Install
 
 ```shell
-npm install calendar-vue-mobile
+npm install calendar-vue-mobile --save
 ```
 
 
