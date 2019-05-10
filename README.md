@@ -29,6 +29,10 @@ You can find examples in calendar-vue-mobile/src/demo/ , There are specific ways
 ### 例子
 你可以在 calendar-vue-mobile/src/demo/ 路径下找到例子，里边有该日历的具体应用方式
 
+### 源码讲解
+前些天入职的小前端问我周一到周日要怎么改成周日到周六...当时有点忙，而且有点无语，他人的组件不总是适用于自己的，作为前端还是要学习他人源码，并拥有修改为己用的能力。
+“周一到周日要怎么改成周日到周六”的修改方法是：datepicker里的getMonthweek方法里最后的return的-1去掉就可以了。
+
 ### API
 
 | 属性        | 类型           | 说明  |
